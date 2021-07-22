@@ -1,4 +1,26 @@
-### Hi there 👋
+# Hello, I'm Michael Baez
+- 💻 I'm currently working on a Make-up Artist's Portfolio website and Discord Bot that is integrated with Google Assistant.
+- 📚 I'm currently learning DiscordJS.
+- 📥 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/michaeldbaez/)
+
+## Technologies
+### Basic:
+  - HTML5
+  - CSS3
+  - Mocha
+  - Chai
+  - Python
+
+### Proficient:
+  - Javascript
+  - NodeJS
+  - React/Redux
+  - Express
+  - PostgresQL
+  - Sequelize
+  - Git
+  - React Native
+  - Firebase
 
 <!--
 **mikey427/mikey427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
