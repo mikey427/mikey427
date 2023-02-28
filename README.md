@@ -1,6 +1,6 @@
 # Hello, I'm Michael Baez
-- 💻 I'm currently working on a Make-up Artist's Portfolio website and Discord Bot that is integrated with Google Assistant.
-- 📚 I'm currently learning DiscordJS.
+- 💻 I'm currently working on a ChatGPT clone that I'd like to integrate with a discord bot!
+- 📚 I'm currently learning OpenAI.
 - 📥 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/michaeldbaez/)
 
 ## Technologies
