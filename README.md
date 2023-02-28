@@ -26,6 +26,15 @@
   - PHP
   - Laravel
 
+### Projects
+## Park App
+Park App is a mobile application which connects users who need a place to park with parking spots provided by other users. School Capstone Project.
+https://github.com/Parkpp/parkapp
+
+## Grace Shopper: Environment
+Environment is an ecommerce site that sells furniture.
+https://github.com/MyEnvironment-GS/MyEnvironment-GS
+
 <!--
 **mikey427/mikey427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
