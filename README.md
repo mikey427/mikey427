@@ -21,6 +21,10 @@
   - Git
   - React Native
   - Firebase
+  - Typescript
+  - Angular
+  - PHP
+  - Laravel
 
 <!--
 **mikey427/mikey427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
