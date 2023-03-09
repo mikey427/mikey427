@@ -26,12 +26,17 @@
   - PHP
   - Laravel
 
-### Projects
-## Park App
+## Projects
+
+### Cloud Companion
+Cloud Companion is a website for displaying the weather of 4 different locations simultaneously. I built it solo using React, Node and RapidAPI's Weather API.
+https://github.com/mikey427/Cloud-Companion
+
+### Park App
 Park App is a mobile application which connects users who need a place to park with parking spots provided by other users. School Capstone Project.
 https://github.com/Parkpp/parkapp
 
-## Grace Shopper: Environment
+### Grace Shopper: Environment
 Environment is an ecommerce site that sells furniture.
 https://github.com/MyEnvironment-GS/MyEnvironment-GS
 
