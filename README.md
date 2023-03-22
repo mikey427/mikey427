@@ -25,6 +25,7 @@
   - Angular
   - PHP
   - Laravel
+  - TailwindCSS
 
 ## Projects
 
