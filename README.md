@@ -1,6 +1,6 @@
 # Hello, I'm Michael Baez
 - 💻 I'm currently working on a Portfolio site and a couple smaller projects!
-- 📚 I'm currently increasing my knowledge in React and learning NextJS and Supabase.
+- 📚 I'm currently learning NextJS and Supabase.
 - 📥 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/michaeldbaez/)
 
 ## Technologies
