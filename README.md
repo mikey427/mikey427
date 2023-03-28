@@ -4,14 +4,6 @@
 - 📥 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/michaeldbaez/)
 
 ## Technologies
-### Basic:
-  - HTML5
-  - CSS3
-  - Mocha
-  - Chai
-  - Python
-
-### Proficient:
   - Javascript
   - NodeJS
   - React/Redux
